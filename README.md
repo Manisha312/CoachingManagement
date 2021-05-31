@@ -1,1 +1,1 @@
-CoachingManagement is an Online Coaching System Management. 
+CoachingManagement is an Online Management of Coaching centers running offline. 
